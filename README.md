@@ -38,8 +38,8 @@
 ![image](https://github.com/NaveenM-IOT0804/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117974950/7d93834a-674d-4f50-a255-3e6e6b8e8c3c)
 
 
-### Name: Guruprasad B
-### Register Number: 212221230032
+### Name: Berjin Shabeck
+### Register Number: 212222240018
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
